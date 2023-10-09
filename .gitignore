@@ -1,0 +1,5 @@
+SubjectScorer/data/word.vector
+SubjectScorer/data/ltp_data_v3.4.0/pos.model
+SubjectScorer/data/ltp_data_v3.4.0/cws.model
+SubjectScorer/data/ltp_data_v3.4.0/parser.model
+SubjectScorer/data/ltp_data_v3.4.0/pisrl.model
